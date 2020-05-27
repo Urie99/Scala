@@ -7,9 +7,10 @@ Scala объединяет в себе возможности объекто-о�
 * Использование IDE.
 * Использование командной строки.
 Если вы просто хотите работать в Scala без установки чего-либо, перейдите по ссылке: (https://scastie.scala-lang.org/)
+
 Полезные учебники по Scala:
-* (https://www.scala-exercises.org/scala_tutorial/terms_and_types)
-* (https://tproger.ru/articles/scala-tutorial-for-beginners/)
+* https://www.scala-exercises.org/scala_tutorial/terms_and_types
+* https://tproger.ru/articles/scala-tutorial-for-beginners/
 ## Примеры программ
 ### Пример № 1
 В качестве первого пример мы возьмём стандартную программу Hello World.
